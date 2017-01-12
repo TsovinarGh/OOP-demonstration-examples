@@ -1,0 +1,8 @@
+D:\C#2016\Starting\3dShapes\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe.config
+D:\C#2016\Starting\3dShapes\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe
+D:\C#2016\Starting\3dShapes\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.pdb
+D:\C#2016\Starting\3dShapes\ConsoleApplicationTest\bin\Debug\3dShapes.dll
+D:\C#2016\Starting\3dShapes\ConsoleApplicationTest\bin\Debug\3dShapes.pdb
+D:\C#2016\Starting\3dShapes\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.csprojResolveAssemblyReference.cache
+D:\C#2016\Starting\3dShapes\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.exe
+D:\C#2016\Starting\3dShapes\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb

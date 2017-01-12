@@ -1,0 +1,5 @@
+D:\C#2016\Starting\3dShapes\3dShapes\bin\Debug\3dShapes.dll
+D:\C#2016\Starting\3dShapes\3dShapes\bin\Debug\3dShapes.pdb
+D:\C#2016\Starting\3dShapes\3dShapes\obj\Debug\InheritanceDemo.csprojResolveAssemblyReference.cache
+D:\C#2016\Starting\3dShapes\3dShapes\obj\Debug\3dShapes.dll
+D:\C#2016\Starting\3dShapes\3dShapes\obj\Debug\3dShapes.pdb
