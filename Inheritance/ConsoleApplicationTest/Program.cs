@@ -12,7 +12,7 @@ namespace ConsoleApplicationTest
         static void Main(string[] args)
         {
             Coordinate3D elipscenter = new Coordinate3D(1.2f, 1.1f, 1.4f);
-           
+
             Ellipsoid elips = new Ellipsoid(2f, 4f, 1.2f, elipscenter);
             Console.WriteLine(elips);
             elips.MoveBy(2);
@@ -26,9 +26,8 @@ namespace ConsoleApplicationTest
             //Console.WriteLine(elips);
             //Ellipsoid elips1 = new Ellipsoid(1f, 1f, 1f);
             //Console.WriteLine(elips1);
-
             //Geometric3Dshapes elips3 = new Ellipsoid(1f, 2f,4f);
-           Console.ReadKey();
+            Console.ReadKey();
 
         }
     }
